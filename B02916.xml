@@ -1,0 +1,758 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The high-vvay to riches, or A meanes to prevent poverty: containing a brief description of that child of chase or Lady Pecunia. Whereunto is added a brief representation of all idle or extraordinary expences, with all their amounts to in the year: together with an exact table shewing how much divers principal sums (with interest upon interest) amount to in several years, after 10. or 8. in the hundred, &amp;c. Very necessary and fit to be regarded by all those who out of a wary disposition intend to thrive in city or country.</title>
+            <author>T. D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02916</idno>
+            <idno type="STC">Wing D90</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.4[98]</idno>
+            <idno type="EEBO-CITATION">99884970</idno>
+            <idno type="PROQUEST">ocm99884970</idno>
+            <idno type="VID">182768</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02916)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182768)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A4:2[99])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The high-vvay to riches, or A meanes to prevent poverty: containing a brief description of that child of chase or Lady Pecunia. Whereunto is added a brief representation of all idle or extraordinary expences, with all their amounts to in the year: together with an exact table shewing how much divers principal sums (with interest upon interest) amount to in several years, after 10. or 8. in the hundred, &amp;c. Very necessary and fit to be regarded by all those who out of a wary disposition intend to thrive in city or country.</title>
+                  <author>T. D.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed, and licensed according to order. :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: By T.D.</note>
+                  <note>Verse: "SHe is a Lady of such matchless carriage ..."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Money --  England --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:182768:1" rendition="simple:additions"/>
+            <head>
+               <hi>THE HIGH-VVAY TO RICHES, OR A Meanes to prevent POVERTY: CONTAINING</hi> A Brief Deſcription of that Child of CHASE or Lady <hi>PECUNIA,</hi> Whereunto is added a Brief Repreſentation of all Idle or Extraordinary Expences, with all their Amounts to in the Year: Together with an Exact Table ſhewing how much divers Principal Sums (with Intereſt upon Intereſt) amount to in ſeveral years, after <hi>10.</hi> or <hi>8.</hi> in the Hundred, &amp;c. very neceſſary and fit to be regarded by all Thoſe who out of a wary Diſpoſition intend to thrive in City or Country.</head>
+            <lg>
+               <l>SHe is a Lady of ſuch matchleſs Carriage,</l>
+               <l>Wedded to none, though ſought of all in Marriage.</l>
+               <l>She may be kiſt, yet neither waſht nor clipt:</l>
+               <l>And if you wooe not wary, ſoon or'e-ſlipt.</l>
+               <l>She may be long, and yet be honeſt too</l>
+               <l>To many Merchants, 'ſpite they all can do:</l>
+               <l>Who e're atchieves her, ſpeak her ne're ſo fair,</l>
+               <l>She'le not ſtay long before ſhe take the aire.</l>
+               <l>She'le ſtay with no <hi>Poor man,</hi> her ſtate's ſo great;</l>
+               <l>A <hi>Rich man</hi> may her for a time intreat;</l>
+            </lg>
+            <lg>
+               <l>She goes in Cloth of Silver, Cloth of Gold</l>
+               <l>Of ſeveral worths, and values manifold.</l>
+               <l>But when ſhe goes in Golden Robes beſt dight,</l>
+               <l>Then ſhe's ſuſpected for to be moſt light:</l>
+               <l>She needs no Phyſick to recover, health;</l>
+               <l>For ſhe's ſtill currant, and as rich in wealth.</l>
+               <l>Some <hi>Iriſh Lady</hi> born we may ſuppoſe,</l>
+               <l>Becauſe ſhe runs ſo faſt, and never goes:</l>
+               <l>If ſhe be wrong'd in Name, and ill abide it,</l>
+               <l>Of all Men, Juſtice Touchſtone muſt decide it.</l>
+            </lg>
+            <lg>
+               <l>He that thus does, and all do thus to gain her,</l>
+               <l>Being thus atchiev'd, ſhe is but ſlippery hold,</l>
+               <l>And ſtill be gone, unleſs by force you ſtrain her,</l>
+               <l>Changing her Humour to another mold;</l>
+               <l>By Pence and Half-pence, and ſuch little crums,</l>
+               <l>Which of themſelves ſo ſleightly Men do prize,</l>
+               <l>In time are eaten up thoſe larger ſums,</l>
+               <l>That did not by ſuch petty parcels riſe.</l>
+               <l>Like little drops, that of themſelves not fear'd,</l>
+               <l>Yet do in time, together ſo much ſlip,</l>
+               <l>That where no danger at the firſt appear'd,</l>
+               <l>It after comes to bear or drown a Ship.</l>
+               <l>Thy Pence a Day, that may be ſav'd from waſt,</l>
+               <l>When thou doſt ſee in one year their Amount,</l>
+               <l>Will be by this Preſentment held more faſt,</l>
+               <l>And weigh'd, as Thrift perſwades, in more ac<g ref="char:EOLhyphen"/>count;</l>
+               <l>Which unſuſpected Thief, that all may know it,</l>
+               <l>I'le waſte but few Lines more before I ſhew it.</l>
+            </lg>
+            <lg>
+               <head>The Induction.</head>
+               <l>HE that makes Conſcience of a Venial ſin,</l>
+               <l>Into a Mortal ſeldome falleth in:</l>
+               <l>He that not ſleightly paſſes or'e one Day,</l>
+               <l>Throws not in thriftleſs uſes Years away:</l>
+               <l>He that makes Conſcience for to ſpeak the Truth,</l>
+               <l>Seldome forſwears himſelf in Age or Youth:</l>
+               <l>Even ſo, He that a Penny gripeth faſt,</l>
+               <l>Seldome throws Pounds or Crowns away in waſt:</l>
+               <l>As contrary, He that o're-looks thoſe ſmall</l>
+               <l>And petty Moyeties, eaſily ſinks in all.</l>
+               <l>A PENNY is a ſmall regardleſs ſum,</l>
+               <l>Yet may in ſome time to ſomething come;</l>
+               <l>Therefore obſerve this Table, thou ſhalt know</l>
+               <l>How Great thoſe Littles in ſmall time do grow,</l>
+               <l>And how with eaſie ſteps they do decay;</l>
+               <l>Thoſe that ne're reckon Pence, they waſte this way.</l>
+            </lg>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">By the Day.</cell>
+                     <cell role="label" cols="3">By the Week.</cell>
+                  </row>
+                  <row>
+                     <cell>A Farthing</cell>
+                     <cell>1 d.</cell>
+                     <cell>ob.</cell>
+                     <cell>q.</cell>
+                  </row>
+                  <row>
+                     <cell>A Halfpenny</cell>
+                     <cell>3 d.</cell>
+                     <cell>ob.</cell>
+                     <cell>o</cell>
+                  </row>
+                  <row>
+                     <cell>A Penny.</cell>
+                     <cell>7 d.</cell>
+                     <cell>o.</cell>
+                     <cell>o</cell>
+                  </row>
+                  <row>
+                     <cell>2 Pence</cell>
+                     <cell>14 d.</cell>
+                     <cell>o.</cell>
+                     <cell>o</cell>
+                  </row>
+                  <row>
+                     <cell>3 Pence</cell>
+                     <cell>21 d.</cell>
+                     <cell>o.</cell>
+                     <cell>o</cell>
+                  </row>
+                  <row>
+                     <cell>4 Pence</cell>
+                     <cell>2 s.</cell>
+                     <cell>4 d.</cell>
+                     <cell>o</cell>
+                  </row>
+                  <row>
+                     <cell>5 Pence</cell>
+                     <cell>2 s.</cell>
+                     <cell>11 d.</cell>
+                     <cell>o</cell>
+                  </row>
+                  <row>
+                     <cell>6 Pence</cell>
+                     <cell>3 s.</cell>
+                     <cell>6 d.</cell>
+                     <cell>o</cell>
+                  </row>
+                  <row>
+                     <cell role="label">By the Month.</cell>
+                     <cell role="label" cols="3">By the Year.</cell>
+                  </row>
+                  <row>
+                     <cell>7 Pence</cell>
+                     <cell>8 s.</cell>
+                     <cell>7 d.</cell>
+                     <cell>q.</cell>
+                  </row>
+                  <row>
+                     <cell>14 Pence</cell>
+                     <cell>15 s.</cell>
+                     <cell>2 d.</cell>
+                     <cell>ob.</cell>
+                  </row>
+                  <row>
+                     <cell>2 Shillings 4 Pence</cell>
+                     <cell>30 s.</cell>
+                     <cell>5 d.</cell>
+                     <cell>o</cell>
+                  </row>
+                  <row>
+                     <cell>4 Shillings 8 Pence</cell>
+                     <cell>3 l.</cell>
+                     <cell>10 d.</cell>
+                     <cell>o</cell>
+                  </row>
+                  <row>
+                     <cell>7 Shillings</cell>
+                     <cell>4 l.</cell>
+                     <cell>11 s.</cell>
+                     <cell>3 d.</cell>
+                  </row>
+                  <row>
+                     <cell>9 Shillings 4 Pence</cell>
+                     <cell>6 l.</cell>
+                     <cell>2 s.</cell>
+                     <cell>6 d.</cell>
+                  </row>
+                  <row>
+                     <cell>11 Shillings 8 Pence</cell>
+                     <cell>7 l.</cell>
+                     <cell>12 s.</cell>
+                     <cell>1 d.</cell>
+                  </row>
+                  <row>
+                     <cell>14 Shillings</cell>
+                     <cell>9 l.</cell>
+                     <cell>2 s.</cell>
+                     <cell>6 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>All which ſaid ſeveral Sums may be thus more eaſily ſumm'd up after the manner of Exchequer reckoning, as followeth:</hi>
+               <list>
+                  <item>A Penny a day is by the year one pound, one half pound, one groat, one penny.</item>
+                  <item>Two pence a day is by the year two pounds, two half pounds, two groats, two pence.</item>
+                  <item>Three pence a day is by the year three pounds three half pounds, three groats, three pence.</item>
+                  <item>Four pence a day is by the year four pounds, four half pounds, four groats, four pence.</item>
+               </list>
+            </p>
+            <p>And ſo forward of the reſt, being a moſt certain and never failing Rule to calculate what ſumme or quantity you pleaſe.</p>
+            <p>The mouth of Uſury being opened, yet her Fangs not pulled out (as ſome Jews were in King <hi>Iohn</hi>'s time in <hi>England</hi>) but her Teeth diſco<g ref="char:EOLhyphen"/>vered, that the Borrower may beware. To which effect is here (by this ſubſequent Table) ſhow'd how much divers principal Sums with Intereſt, and Intereſt upon Intereſt amounts to in ſeveral years, after ten in the hundred, and eight in the hundred.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label" cols="2"> </cell>
+                     <cell role="label" cols="5">1 l.</cell>
+                     <cell role="label" cols="5">2 l.</cell>
+                     <cell role="label" cols="5">3 l.</cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="2"> </cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                     <cell role="label">ob.</cell>
+                     <cell role="label">q.</cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                     <cell role="label">ob.</cell>
+                     <cell role="label">q.</cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                     <cell role="label">ob.</cell>
+                     <cell role="label">q</cell>
+                  </row>
+                  <row>
+                     <cell role="label" rows="7">Year</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>2</cell>
+                     <cell>4</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                     <cell>4</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>3</cell>
+                     <cell>2</cell>
+                     <cell>8</cell>
+                     <cell>4</cell>
+                     <cell>1</cell>
+                     <cell>5</cell>
+                     <cell>3</cell>
+                     <cell>12</cell>
+                     <cell>7</cell>
+                     <cell>0</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>7</cell>
+                     <cell>0</cell>
+                     <cell>3</cell>
+                     <cell>2</cell>
+                     <cell>13</cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                     <cell>3</cell>
+                     <cell>3</cell>
+                     <cell>19</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>1</cell>
+                     <cell>9</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                     <cell>3</cell>
+                     <cell>22</cell>
+                     <cell>18</cell>
+                     <cell>6</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>4</cell>
+                     <cell>7</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>1</cell>
+                     <cell>18</cell>
+                     <cell>11</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>7</cell>
+                     <cell>17</cell>
+                     <cell>11</cell>
+                     <cell>0</cell>
+                     <cell>2</cell>
+                     <cell>5</cell>
+                     <cell>16</cell>
+                     <cell>11</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>14</cell>
+                     <cell>3</cell>
+                     <cell>15</cell>
+                     <cell>11</cell>
+                     <cell>0</cell>
+                     <cell>3</cell>
+                     <cell>1</cell>
+                     <cell>11</cell>
+                     <cell>11</cell>
+                     <cell>0</cell>
+                     <cell>2</cell>
+                     <cell>11</cell>
+                     <cell>7</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>21</cell>
+                     <cell>7</cell>
+                     <cell>8</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>22</cell>
+                     <cell>4</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="2"> </cell>
+                     <cell role="label" cols="5">10 l.</cell>
+                     <cell role="label" cols="5">20 l.</cell>
+                     <cell role="label" cols="5">40 l.</cell>
+                  </row>
+                  <row>
+                     <cell role="label" rows="7">Year</cell>
+                     <cell>1</cell>
+                     <cell>11</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>22</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>46</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>12</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>24</cell>
+                     <cell>4</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>2</cell>
+                     <cell>48</cell>
+                     <cell>8</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>13</cell>
+                     <cell>6</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>3</cell>
+                     <cell>26</cell>
+                     <cell>12</cell>
+                     <cell>4</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>53</cell>
+                     <cell>4</cell>
+                     <cell>9</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>14</cell>
+                     <cell>12</cell>
+                     <cell>9</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>29</cell>
+                     <cell>5</cell>
+                     <cell>7</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>58</cell>
+                     <cell>11</cell>
+                     <cell>3</cell>
+                     <cell>1</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>19</cell>
+                     <cell>9</cell>
+                     <cell>8</cell>
+                     <cell>1</cell>
+                     <cell>3</cell>
+                     <cell>33</cell>
+                     <cell>19</cell>
+                     <cell>5</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>77</cell>
+                     <cell>18</cell>
+                     <cell>11</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>14</cell>
+                     <cell>37</cell>
+                     <cell>9</cell>
+                     <cell>6</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>75</cell>
+                     <cell>19</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>141</cell>
+                     <cell>18</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>2<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>74</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>148</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>195</cell>
+                     <cell>0</cell>
+                     <cell>9</cell>
+                     <cell>0</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="2"> </cell>
+                     <cell role="label" cols="5">50 l.</cell>
+                     <cell role="label" cols="5">100 l.</cell>
+                     <cell role="label" cols="5">200 l.</cell>
+                  </row>
+                  <row>
+                     <cell role="label" rows="7">Year</cell>
+                     <cell>1</cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>110</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>220</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>20</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>121</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>243</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>66</cell>
+                     <cell>11</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>133</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>206</cell>
+                     <cell>4</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>73</cell>
+                     <cell>4</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>2</cell>
+                     <cell>146</cell>
+                     <cell>8</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>3</cell>
+                     <cell>291</cell>
+                     <cell>16</cell>
+                     <cell>5</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>97</cell>
+                     <cell>8</cell>
+                     <cell>8</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>192</cell>
+                     <cell>17</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>389</cell>
+                     <cell>11</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>14</cell>
+                     <cell>189</cell>
+                     <cell>17</cell>
+                     <cell>6</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>379</cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>752</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>21</cell>
+                     <cell>270</cell>
+                     <cell>0</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>340</cell>
+                     <cell>0</cell>
+                     <cell>6</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>148</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+            <lg>
+               <head>Admiration.</head>
+               <l>THat Money ſhould engender thus and breed</l>
+               <l>Is againſt Nature, ſpringing from no ſeed;</l>
+               <l>Yet ſee this Uſury that's ever running:</l>
+               <l>Inſenſibly devours a State with cunning;</l>
+               <l>It eateth deep, and yet no Teeth you ſee:</l>
+               <l>It is a Monſter ſure! what ſhould it be?</l>
+               <l>In ſeven years, a term of time but ſmall,</l>
+               <l>The Intereſt looks as bigg as Principal:</l>
+               <l>A forward Whelp like to his Dam or Mother,</l>
+               <l>And every year bites deeper ſtill than other:</l>
+               <l>Therefore who e're thou art that mean'ſt to thrive,</l>
+               <l>Forbear that Jaw that ſwallows men alive:</l>
+               <l>So ſhalt thou live moſt happy dayes to ſee,</l>
+               <l>And <hi>foenus</hi> ſhall not to thee <hi>funus</hi> be.</l>
+               <l>And though this be the Gulf that moſt men fear,</l>
+               <l>Yet th' other Petty Channels come not near:</l>
+               <l>For 'tis all one, the effect ſo underſtood,</l>
+               <l>To drown ith' deepeſt Sea, or ſhalloweſt flood;</l>
+               <l>And therefore to this Ruine if thou haſte thee,</l>
+               <l>All's one, if firſt, or laſt, or whether waſte thee.</l>
+               <l>But if ſo be thou mean'ſt to live aſhore,</l>
+               <l>Through <hi>Sylla</hi> and <hi>Charybdis</hi> ſayle no more.</l>
+            </lg>
+            <byline>By <hi>T. D.</hi>
+            </byline>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON</hi> Printed, and Licenſed according to Order. 1664.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
